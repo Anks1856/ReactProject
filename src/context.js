@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import items from './data'
+// import items from './data'
 import Client from'./Contentful'
 // .then(response => console.log(response.items));
 // console.log(items);
